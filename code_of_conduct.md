@@ -1,3 +1,5 @@
+![Frame 361](https://github.com/faradayafrica/.github/blob/main/images/WhatsApp%20Image%202022-10-03%20at%2017.44.45.jpeg?raw=true) <br>
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
