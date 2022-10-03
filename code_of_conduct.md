@@ -73,11 +73,14 @@ reporter of any incident.
 [Faraday Admin](https://twitter.com/faradayafrica) <br>
   Email: admin@faraday.africa
 
-[Nehemiah Onyekachukwu Emmanuel](https://twitter.com/devgenix) <br>
-  Email: emmanueln644@gmail.com
+[Nehemiah Onyekachukwu Emmanuel](https://github.com/devgenix) <br>
+  Email: emmanueln644@gmail.com <br>
+  Twitter: https://twitter.com/devgenix <br>
+  Linkedin: https://linkedin.com/in/devgenix
 
-[Nworie Kingsley](https://twitter.com/nworiekingslee) <br>
-  Email: obizzkingsley@gmail.com
+[Nworie Kingsley](https://github.com/nworiekingslee) <br>
+  Email: obizzkingsley@gmail.com <br>
+  Twitter: https://twitter.com/nworiekingslee
 
 ## Enforcement Guidelines
 
